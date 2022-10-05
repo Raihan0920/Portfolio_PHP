@@ -12,12 +12,12 @@
 
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    <li><a class="nav-link scrollto " href="controller.php?hal=home">Home</a></li>
-                    <li><a class="nav-link scrollto" href="controller.php?hal=about">About</a></li>
-                    <li><a class="nav-link scrollto" href="controller.php?hal=services">Services</a></li>
-                    <li><a class="nav-link scrollto active" href="controller.php?hal=portfolio">Portfolio</a></li>
-                    <li><a class="nav-link scrollto" href="controller.php?hal=testimonial">Study</a></li>
-                    <li><a class="nav-link scrollto" href="controller.php?hal=contact">Contact</a></li>
+                    <li><a class="nav-link scrollto " href="index.php?hal=home">Home</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?hal=about">About</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?hal=services">Services</a></li>
+                    <li><a class="nav-link scrollto active" href="index.php?hal=portfolio">Portfolio</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?hal=testimonial">Study</a></li>
+                    <li><a class="nav-link scrollto" href="index.php?hal=contact">Contact</a></li>
                 </ul>
                 <i class="bi bi-list mobile-nav-toggle"></i>
             </nav><!-- .navbar -->
